@@ -8,7 +8,7 @@ body{
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgb(4,9,30,0.7),rgb(4,9,30,0.7)),url(/imges/banner.png);
+    background-image: linear-gradient(rgb(4,9,30,0.7),rgb(4,9,30,0.7)),url(imges/banner.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -327,7 +327,7 @@ text-align: left;
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url(/imges/banner2.jpg);
+    background-image: linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url(imges/banner2.jpg);
     background-position: center ;
     background-size: cover;
     border-radius: 10px;
@@ -373,7 +373,7 @@ p .fas{
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgb(4,9,30,0.7),rgb(4,9,30,0.7)),url(/imges/background.jpg);
+    background-image: linear-gradient(rgb(4,9,30,0.7),rgb(4,9,30,0.7)),url(imges/background.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
